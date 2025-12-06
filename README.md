@@ -6,16 +6,14 @@ This repository contains 3 beginner-friendly web development projects built usin
 
 ## 📸 Screenshots
 
-> 🖼️ *(Add your images in a `screenshots/` folder and replace the links below if you want!)*
-
 ### 🧑‍💻 Portfolio 
-![Portfolio Screenshot](screenshots/portfolio.jpg)
+<img src="screenshots/portfolio.jpg" width="600"/>
 
 ### 🎨 Landing Page
-![Landing Page Screenshot](screenshots/landing-page.jpg)
+<img src="screenshots/landing-page.jpg" width="600"/>
 
 ### 🧮 Calculator
-![Calculator Screenshot](screenshots/calculator.jpg)
+<img src="screenshots/calculator.jpg" width="600"/>
 
 ---
 
