@@ -13,7 +13,7 @@ This repository contains 3 beginner-friendly web development projects built usin
 <img src="screenshots/landing-page.jpg" width="600"/>
 
 ### 🧮 Calculator
-<img src="screenshots/calculator.jpg" width="600"/>
+<img src="web-project-level1/screenshots/calculator.jpg" width="600"/>
 
 ---
 
