@@ -7,7 +7,7 @@ This repository contains 3 beginner-friendly web development projects built usin
 ## 📸 Screenshots
 
 ### 🧑‍💻 Portfolio 
-<img src="https://github.com/Maheshwaran1188/web-projects-level1/tree/main/web-project-level1/portfolio" width="600"/>
+<img src="web-project-level1/screenshots/portfolio.jpg" width="600"/>
 
 ### 🎨 Landing Page
 <img src="web-project-level1/screenshots/landing-page.jpg" width="600"/>
