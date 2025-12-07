@@ -46,7 +46,7 @@ This repository contains 3 beginner-friendly web development projects built usin
 - Grid-based keypad
 
 📌 **Live Demo:**  
-👉 [Click here]()
+👉 [Click here](https://github.com/Maheshwaran1188/web-projects-level1/tree/main/web-project-level1/calculator)
 
 ---
 
