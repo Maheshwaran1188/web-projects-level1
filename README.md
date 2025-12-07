@@ -24,7 +24,7 @@ This repository contains 3 beginner-friendly web development projects built usin
 - Includes **About, Skills, Projects, Contact, and Resume sections**
 - Professional banner & profile section
 
-🔗 **Live Demo:** *(Coming Soon)*
+🔗 **Live Demo:** *(Click here)*
 
 ---
 
@@ -33,7 +33,7 @@ This repository contains 3 beginner-friendly web development projects built usin
 - Hero section with banner image
 - Service section, About, and Contact form
 
-🔗 **Live Demo:** *(Coming Soon)*
+🔗 **Live Demo:** *(Click here)*
 
 ---
 
@@ -42,7 +42,7 @@ This repository contains 3 beginner-friendly web development projects built usin
 - Supports addition, subtraction, multiplication & division
 - Grid-based keypad
 
-🔗 **Live Demo:** *(Coming Soon)*
+🔗 **Live Demo:** *(Click here)*
 
 ---
 
