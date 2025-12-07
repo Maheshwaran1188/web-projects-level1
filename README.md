@@ -24,7 +24,8 @@ This repository contains 3 beginner-friendly web development projects built usin
 - Includes **About, Skills, Projects, Contact, and Resume sections**
 - Professional banner & profile section
 
-🔗 **Live Demo:** *(Click here)*
+📌 **Live Demo:**  
+👉 [Click here](https://maheshwaran1188.github.io/web-projects-level1/portfolio/)
 
 ---
 
