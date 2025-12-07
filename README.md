@@ -35,7 +35,8 @@ This repository contains 3 beginner-friendly web development projects built usin
 - Service section, About, and Contact form
 
 📌 **Live Demo:**  
-👉 [Click here]
+👉 [Click here]()
+
 
 ---
 
@@ -45,7 +46,7 @@ This repository contains 3 beginner-friendly web development projects built usin
 - Grid-based keypad
 
 📌 **Live Demo:**  
-👉 [Click here]
+👉 [Click here]()
 
 ---
 
