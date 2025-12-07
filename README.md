@@ -34,7 +34,8 @@ This repository contains 3 beginner-friendly web development projects built usin
 - Hero section with banner image
 - Service section, About, and Contact form
 
-🔗 **Live Demo:** *(Click here)*
+📌 **Live Demo:**  
+👉 [Click here]
 
 ---
 
@@ -43,7 +44,8 @@ This repository contains 3 beginner-friendly web development projects built usin
 - Supports addition, subtraction, multiplication & division
 - Grid-based keypad
 
-🔗 **Live Demo:** *(Click here)*
+📌 **Live Demo:**  
+👉 [Click here]
 
 ---
 
