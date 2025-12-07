@@ -35,7 +35,7 @@ This repository contains 3 beginner-friendly web development projects built usin
 - Service section, About, and Contact form
 
 📌 **Live Demo:**  
-👉 [Click here]()
+👉 [Click here](https://github.com/Maheshwaran1188/web-projects-level1/tree/main/web-project-level1/landing-page)
 
 
 ---
